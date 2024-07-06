@@ -132,7 +132,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLink to="https://leetcode.com/u/shubhamv888/">LeetCode</NavLink>
+        <NavLink href="https://leetcode.com/u/shubhamv888/" target="_blank">LeetCode</NavLink>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />

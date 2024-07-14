@@ -193,63 +193,56 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    title: "Portfolio Basic",
+    date: "Jan 2024 - Feb 2024",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "A basic react based portfolio website made to enhance my skillset over react.",
     image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "https://github.com/Shubhamv888/Portfolio",
     tags: [
       "React Js",
-      "PostgressSQL",
       "Node Js",
-      "Express Js",
       "Redux",
       "React Flow",
     ],
     category: "web app",
     github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    webapp: "https://shubhamv888.netlify.app/",
   },
   {
     id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    title: "Ecommerce Website",
+    date: "Mar 2024 - Apr 2024",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "An ecommerce website which supports functionalities like login, signup, cart management, checkout, product management as well as providing support for both buyers and sellers.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: [
       "React Js",
-      "PostgressSQL",
+      "MongoDB",
       "Node Js",
       "Express Js",
-      "Redux",
-      "React Flow",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/Shubhamv888/ecommerce",
+    webapp: "https://ecommerce-cmak.onrender.com/products",
   },
   {
     id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    title: "SponsorBlock",
+    date: "Jan 2024 - Apr 2024",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "A deep learning based application that can help detect sponsored contents in video content leveraging the power of CNN's and RNN's.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
+      "Python",
+      "Streamlit",
+      "TensorFlow"
     ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    category: "Web App",
+    github: "https://github.com/Shubhamv888/SPONSOR_BLOCK",
+    webapp: "",
   },
   
 ];

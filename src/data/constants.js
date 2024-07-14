@@ -202,11 +202,9 @@ export const projects = [
     tags: [
       "React Js",
       "Node Js",
-      "Redux",
-      "React Flow",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
+    github: "https://github.com/Shubhamv888/Portfolio",
     webapp: "https://shubhamv888.netlify.app/",
   },
   {

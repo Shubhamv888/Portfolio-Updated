@@ -8,7 +8,7 @@ export const Bio = {
     "Enthusiastic about Data Structures and Algorithms with expertise as a full-stack developer and a strong team player. Currently seeking new opportunities in the industry and eager to work on challenging, diverse projects utilizing the latest technologies. Previously worked as Full stack Web Developer Intern.",
   github: "https://github.com/shubhamv888",
   resume:
-    "https://drive.google.com/file/d/1urAq-XKY669LS5SNC5XiVxrd_oGPLEkk/view",
+    "https://drive.google.com/file/d/1H1BFWUlTA0_lcnUkdaKyVm2Kr1peHVWB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shubhamv888/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/shubhamv888/",
